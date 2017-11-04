@@ -1,7 +1,7 @@
 {
-  "name": "zecProxy",
+  "name": "nicehashProxy",
   "version": "1.0.0",
-  "description": "Zcash Stratum Proxy",
+  "description": "NiceHash Stratum Proxy",
   "main": "proxy.js",
   "scripts": {},
   "dependencies": {
