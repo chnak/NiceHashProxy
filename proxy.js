@@ -5,7 +5,7 @@ global.pools = new Map();
 var listeners = new Map();
 
 simplemultialgo.forEach(function(element) {
-    element.host = element.name + ".jp.nicehash.com";
+    element.host = element.host?element.host:element.name + ".jp.nicehash.com";
     global.pools.set(element.port,element);
     var listener = proxyListener.createMiningListener();
     listener.listen(element.port);
