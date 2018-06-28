@@ -170,7 +170,7 @@
                 "algo": 27
             },
             {
-                "paying": "0.00002983",
+                "paying": "0.005",
                 "port": 3361,
                 "name": "blake2s",
                 "algo": 28
