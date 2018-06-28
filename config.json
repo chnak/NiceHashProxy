@@ -171,7 +171,7 @@
             },
             {
                 "paying": "0.00002983",
-				"host":"87.98.253.1",
+				"host":"xvg.eu1.unimining.net",
                 "port": 5770,
                 "name": "blake2s",
                 "algo": 28
